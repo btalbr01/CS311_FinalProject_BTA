@@ -1,0 +1,16 @@
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\bin\Debug\net6.0-windows\CS311_FinalProject_BTA.exe
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\bin\Debug\net6.0-windows\CS311_FinalProject_BTA.deps.json
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\bin\Debug\net6.0-windows\CS311_FinalProject_BTA.runtimeconfig.json
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\bin\Debug\net6.0-windows\CS311_FinalProject_BTA.dll
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\bin\Debug\net6.0-windows\CS311_FinalProject_BTA.pdb
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.frmConverter.resources
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.csproj.GenerateResource.cache
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.AssemblyInfoInputs.cache
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.AssemblyInfo.cs
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.csproj.CoreCompileInputs.cache
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.dll
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\refint\CS311_FinalProject_BTA.dll
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.pdb
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\CS311_FinalProject_BTA.genruntimeconfig.cache
+C:\Users\btalb\OneDrive\Desktop\311 final\CS311_FinalProject_BTA\CS311_FinalProject_BTA\obj\Debug\net6.0-windows\ref\CS311_FinalProject_BTA.dll
